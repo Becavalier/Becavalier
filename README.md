@@ -5,7 +5,7 @@ Please refer [here](https://yhspy.com/) for my blog articles, mostly are written
 Main Projects:
 
 * **[cgc](https://github.com/Becavalier/cgc)**: an experimental Garbage Collector for C language.
-* **[cpplox](https://github.com/Becavalier/cpplox)**: the C++ implementation for language Lox.
+* **[cpplox](https://github.com/Becavalier/cpplax)**: the C++ implementation for language Lax.
 * **[twvm](https://github.com/Becavalier/twvm)**: an experimental WebAssembly virtual machine.
 * **[brainfuck-jit-interpreter](https://github.com/Becavalier/brainfuck-jit-interpreter)**: a handwritten Brainfuck JIT interpreter, mainly used for demonstration.
 * **[os-paw](https://github.com/Becavalier/os-paw)**: a tool for diagnosing and playing with OS.
