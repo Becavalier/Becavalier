@@ -1,6 +1,6 @@
 ## About Me
 
-Please refer [here](https://yhspy.com/) for my blog articles, mostly are written in Chinese though :)
+Please refer [here](https://hangyu.site/) for my blog articles, mostly are written in Chinese though :)
 
 Main Projects:
 
